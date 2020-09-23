@@ -31,14 +31,16 @@ class MyProfile extends StatelessWidget {
                     "Rahul Pon",
                     textAlign: TextAlign.center,
                     style: TextStyle(
+                      fontFamily: "Poppins",
                       fontSize: 50,
                       color: Colors.white,
                     ),
                   ),
                   Text(
-                    "Cloud Architect",
+                    "Information Technology",
                     textAlign: TextAlign.center,
                     style: TextStyle(
+                      fontFamily: "Poppins",
                       fontSize: 20,
                       color: Colors.grey,
                     ),
@@ -65,6 +67,7 @@ class MyProfile extends StatelessWidget {
                     Text(
                       "Education",
                       style: TextStyle(
+                        fontFamily: "Poppins",
                         fontSize: 30,
                         color: Colors.white,
                       ),
@@ -84,6 +87,7 @@ class MyProfile extends StatelessWidget {
                       child: Text(
                         "Bachelor of Technology, Information Technology",
                         style: TextStyle(
+                          fontFamily: "Poppins",
                           fontSize: 20,
                           color: Colors.white,
                         ),
@@ -104,6 +108,7 @@ class MyProfile extends StatelessWidget {
                       child: Text(
                         "Bachelor of Arts, Hindi Language and Literature",
                         style: TextStyle(
+                          fontFamily: "Poppins",
                           fontSize: 20,
                           color: Colors.white,
                         ),
@@ -123,6 +128,7 @@ class MyProfile extends StatelessWidget {
                     Text(
                       "Project Work",
                       style: TextStyle(
+                        fontFamily: "Poppins",
                         fontSize: 30,
                         color: Colors.white,
                       ),
@@ -157,6 +163,7 @@ class MyProfile extends StatelessWidget {
                                     child: Text(
                                       "Bachelor of Arts, Hindi Language and Literature",
                                       style: TextStyle(
+                                        fontFamily: "Poppins",
                                         fontSize: 20,
                                         color: Colors.white,
                                       ),
@@ -181,6 +188,7 @@ class MyProfile extends StatelessWidget {
                                     child: Text(
                                       "Bachelor of Arts, Hindi Language and Literature",
                                       style: TextStyle(
+                                        fontFamily: "Poppins",
                                         fontSize: 20,
                                         color: Colors.white,
                                       ),
@@ -214,6 +222,7 @@ class MyProfile extends StatelessWidget {
                                     child: Text(
                                       "Bachelor of Arts, Hindi Language and Literature",
                                       style: TextStyle(
+                                        fontFamily: "Poppins",
                                         fontSize: 20,
                                         color: Colors.white,
                                       ),
@@ -238,6 +247,7 @@ class MyProfile extends StatelessWidget {
                                     child: Text(
                                       "Bachelor of Arts, Hindi Language and Literature",
                                       style: TextStyle(
+                                        fontFamily: "Poppins",
                                         fontSize: 20,
                                         color: Colors.white,
                                       ),
@@ -262,6 +272,7 @@ class MyProfile extends StatelessWidget {
                                     child: Text(
                                       "Bachelor of Arts, Hindi Language and Literature",
                                       style: TextStyle(
+                                        fontFamily: "Poppins",
                                         fontSize: 20,
                                         color: Colors.white,
                                       ),
@@ -288,6 +299,7 @@ class MyProfile extends StatelessWidget {
                     Text(
                       "Contact",
                       style: TextStyle(
+                        fontFamily: "Poppins",
                         fontSize: 30,
                         color: Colors.white,
                       ),
@@ -324,6 +336,7 @@ class MyProfile extends StatelessWidget {
                               Text(
                                 "Phone - Work",
                                 style: TextStyle(
+                                  fontFamily: "Poppins",
                                   fontSize: 20,
                                   color: Colors.white,
                                 ),
@@ -362,6 +375,7 @@ class MyProfile extends StatelessWidget {
                               Text(
                                 "Email - Work",
                                 style: TextStyle(
+                                  fontFamily: "Poppins",
                                   fontSize: 20,
                                   color: Colors.white,
                                 ),
@@ -400,6 +414,7 @@ class MyProfile extends StatelessWidget {
                               Text(
                                 "WhatsApp - Work",
                                 style: TextStyle(
+                                  fontFamily: "Poppins",
                                   fontSize: 20,
                                   color: Colors.white,
                                 ),
@@ -423,6 +438,7 @@ class MyProfile extends StatelessWidget {
                     Text(
                       "Find me on the internet!",
                       style: TextStyle(
+                        fontFamily: "Poppins",
                         fontSize: 30,
                         color: Colors.white,
                       ),
