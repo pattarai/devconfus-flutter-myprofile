@@ -13,9 +13,9 @@ class MyProfile extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Color(0xff333333),
-      appBar: AppBar(
-        title: Text("My Profile"),
-      ),
+      // appBar: AppBar(
+      //   title: Text("My Profile"),
+      // ),
       body: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -81,7 +81,7 @@ class MyProfile extends StatelessWidget {
                       decoration: BoxDecoration(
                           borderRadius: BorderRadius.all(Radius.circular(10)),
                           gradient: LinearGradient(
-                              colors: [Color(0xffe04a88), Color(0xff861f42)],
+                              colors: [Color(0xffce9ffc), Color(0xff7367f0)],
                               end: Alignment.topLeft,
                               begin: Alignment.bottomRight)),
                       child: Text(
@@ -102,7 +102,7 @@ class MyProfile extends StatelessWidget {
                       decoration: BoxDecoration(
                           borderRadius: BorderRadius.all(Radius.circular(10)),
                           gradient: LinearGradient(
-                              colors: [Color(0xffe04a88), Color(0xff861f42)],
+                              colors: [Color(0xffce9ffc), Color(0xff7367f0)],
                               end: Alignment.topLeft,
                               begin: Alignment.bottomRight)),
                       child: Text(
@@ -155,8 +155,8 @@ class MyProfile extends StatelessWidget {
                                             Radius.circular(10)),
                                         gradient: LinearGradient(
                                             colors: [
-                                              Color(0xffe04a88),
-                                              Color(0xff861f42)
+                                              Color(0xffce9ffc),
+                                              Color(0xff7367f0)
                                             ],
                                             end: Alignment.topLeft,
                                             begin: Alignment.bottomRight)),
@@ -180,8 +180,8 @@ class MyProfile extends StatelessWidget {
                                             Radius.circular(10)),
                                         gradient: LinearGradient(
                                             colors: [
-                                              Color(0xffe04a88),
-                                              Color(0xff861f42)
+                                              Color(0xffce9ffc),
+                                              Color(0xff7367f0)
                                             ],
                                             end: Alignment.topLeft,
                                             begin: Alignment.bottomRight)),
@@ -214,8 +214,8 @@ class MyProfile extends StatelessWidget {
                                             Radius.circular(10)),
                                         gradient: LinearGradient(
                                             colors: [
-                                              Color(0xffe04a88),
-                                              Color(0xff861f42)
+                                              Color(0xffce9ffc),
+                                              Color(0xff7367f0)
                                             ],
                                             end: Alignment.topLeft,
                                             begin: Alignment.bottomRight)),
@@ -239,8 +239,8 @@ class MyProfile extends StatelessWidget {
                                             Radius.circular(10)),
                                         gradient: LinearGradient(
                                             colors: [
-                                              Color(0xffe04a88),
-                                              Color(0xff861f42)
+                                              Color(0xffce9ffc),
+                                              Color(0xff7367f0)
                                             ],
                                             end: Alignment.topLeft,
                                             begin: Alignment.bottomRight)),
@@ -264,8 +264,8 @@ class MyProfile extends StatelessWidget {
                                             Radius.circular(10)),
                                         gradient: LinearGradient(
                                             colors: [
-                                              Color(0xffe04a88),
-                                              Color(0xff861f42)
+                                              Color(0xffce9ffc),
+                                              Color(0xff7367f0)
                                             ],
                                             end: Alignment.topLeft,
                                             begin: Alignment.bottomRight)),
@@ -321,8 +321,8 @@ class MyProfile extends StatelessWidget {
                                   BorderRadius.all(Radius.circular(10)),
                               gradient: LinearGradient(
                                   colors: [
-                                    Color(0xffe04a88),
-                                    Color(0xff861f42)
+                                    Color(0xffce9ffc),
+                                    Color(0xff7367f0)
                                   ],
                                   end: Alignment.topLeft,
                                   begin: Alignment.bottomRight)),
@@ -360,8 +360,8 @@ class MyProfile extends StatelessWidget {
                                   BorderRadius.all(Radius.circular(10)),
                               gradient: LinearGradient(
                                   colors: [
-                                    Color(0xffe04a88),
-                                    Color(0xff861f42)
+                                    Color(0xffce9ffc),
+                                    Color(0xff7367f0)
                                   ],
                                   end: Alignment.topLeft,
                                   begin: Alignment.bottomRight)),
@@ -399,8 +399,8 @@ class MyProfile extends StatelessWidget {
                                   BorderRadius.all(Radius.circular(10)),
                               gradient: LinearGradient(
                                   colors: [
-                                    Color(0xffe04a88),
-                                    Color(0xff861f42)
+                                    Color(0xffce9ffc),
+                                    Color(0xff7367f0)
                                   ],
                                   end: Alignment.topLeft,
                                   begin: Alignment.bottomRight)),
